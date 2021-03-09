@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Solution {
+public class java_substrings {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
